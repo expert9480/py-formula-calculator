@@ -1,4 +1,4 @@
-# expert948-formula-calculator
+# py-formula-calculator
 About A Python Calculator to do a lot of formulas for you, open one up, type in the inputs, and watch the answer pop up.
 It is done with Python so running it will require the newest version of python.
 
